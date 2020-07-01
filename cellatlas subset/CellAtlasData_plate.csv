@@ -1,0 +1,59 @@
+gene,location,plate,well,sample,URL
+MTHFD1,cytosol,10,G10,1,https://www.proteinatlas.org/ENSG00000100714-MTHFD1
+MTHFD1,cytosol,10,G10,2,https://www.proteinatlas.org/ENSG00000100714-MTHFD1
+TMPO,nuclear membrane,20,B6,2,https://www.proteinatlas.org/ENSG00000120802-TMPO
+TMPO,nuclear membrane,20,B6,1,https://www.proteinatlas.org/ENSG00000120802-TMPO
+TP53BP1,nuclear bodies,41,H10,2,https://www.proteinatlas.org/ENSG00000067369-TP53BP1
+TP53BP1,nuclear bodies,41,H10,1,https://www.proteinatlas.org/ENSG00000067369-TP53BP1
+MTHFD1,cytosol,81,F2,1,https://www.proteinatlas.org/ENSG00000100714-MTHFD1
+MTHFD1,cytosol,81,F2,2,https://www.proteinatlas.org/ENSG00000100714-MTHFD1
+TP53BP1,nucleoplasm,191,A4,2,https://www.proteinatlas.org/ENSG00000067369-TP53BP1
+TP53BP1,nucleoplasm,191,A4,1,https://www.proteinatlas.org/ENSG00000067369-TP53BP1
+SERBP1,cytosol,235,E7,3,https://www.proteinatlas.org/ENSG00000142864-SERBP1
+SERBP1,cytosol,235,E7,4,https://www.proteinatlas.org/ENSG00000142864-SERBP1
+TPR,nuclear membrane,395,C4,2,https://www.proteinatlas.org/ENSG00000047410-TPR
+TPR,nuclear membrane,395,C4,1,https://www.proteinatlas.org/ENSG00000047410-TPR
+AAGAB,nuclear speckles,418,F7,1,https://www.proteinatlas.org/ENSG00000103591-AAGAB
+AAGAB,nuclear speckles,418,F7,2,https://www.proteinatlas.org/ENSG00000103591-AAGAB
+PDS5A,nucleoplasm,442,F2,4,https://www.proteinatlas.org/ENSG00000121892-PDS5A
+PDS5A,nucleoplasm,442,F2,6,https://www.proteinatlas.org/ENSG00000121892-PDS5A
+ATXN2L,cytosol,504,A2,1,https://www.proteinatlas.org/ENSG00000168488-ATXN2L
+ATXN2L,cytosol,504,A2,2,https://www.proteinatlas.org/ENSG00000168488-ATXN2L
+PDS5A,nucleoplasm,551,C10,1,https://www.proteinatlas.org/ENSG00000121892-PDS5A
+PDS5A,nucleoplasm,551,C10,2,https://www.proteinatlas.org/ENSG00000121892-PDS5A
+TUBA3D,microtubules,566,B12,2,https://www.proteinatlas.org/ENSG00000075886-TUBA3D
+TUBA3D,microtubules,566,B12,1,https://www.proteinatlas.org/ENSG00000075886-TUBA3D
+UTP6,nucleoli,607,D7,2,https://www.proteinatlas.org/ENSG00000108651-UTP6
+UTP6,nucleoli,607,D7,1,https://www.proteinatlas.org/ENSG00000108651-UTP6
+HNRNPC,nucleoplasm,635,G10,2,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+HNRNPC,nucleoplasm,635,G10,1,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+SERBP1,cytosol,669,D7,1,https://www.proteinatlas.org/ENSG00000142864-SERBP1
+SERBP1,cytosol,669,D7,2,https://www.proteinatlas.org/ENSG00000142864-SERBP1
+LMNB1,nuclear membrane,711,D6,1,https://www.proteinatlas.org/ENSG00000113368-LMNB1
+LMNB1,nuclear membrane,711,D6,2,https://www.proteinatlas.org/ENSG00000113368-LMNB1
+HNRNPC,nucleoplasm,736,A11,1,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+HNRNPC,nucleoplasm,736,A11,2,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+ATXN2L,cytosol,777,E4,3,https://www.proteinatlas.org/ENSG00000168488-ATXN2L
+ATXN2L,cytosol,777,E4,1,https://www.proteinatlas.org/ENSG00000168488-ATXN2L
+TAF15,nucleoplasm,783,A5,2,https://www.proteinatlas.org/ENSG00000270647-TAF15
+TAF15,nucleoplasm,783,A5,1,https://www.proteinatlas.org/ENSG00000270647-TAF15
+TUBA3D,microtubules,831,G9,2,https://www.proteinatlas.org/ENSG00000075886-TUBA3D
+TUBA3D,microtubules,831,G9,1,https://www.proteinatlas.org/ENSG00000075886-TUBA3D
+UTP6,nucleoli,894,G10,4,https://www.proteinatlas.org/ENSG00000108651-UTP6
+UTP6,nucleoli,894,G10,3,https://www.proteinatlas.org/ENSG00000108651-UTP6
+TMPO,nuclear membrane,931,H7,1,https://www.proteinatlas.org/ENSG00000120802-TMPO
+TMPO,nuclear membrane,931,H7,2,https://www.proteinatlas.org/ENSG00000120802-TMPO
+TAF15,nucleoplasm,1132,H5,1,https://www.proteinatlas.org/ENSG00000270647-TAF15
+TAF15,nucleoplasm,1132,H5,2,https://www.proteinatlas.org/ENSG00000270647-TAF15
+ATXN2L,cytosol,1351,F8,3,https://www.proteinatlas.org/ENSG00000168488-ATXN2L
+ATXN2L,cytosol,1351,F8,5,https://www.proteinatlas.org/ENSG00000168488-ATXN2L
+TPR,nuclear membrane,1772,B6,7,https://www.proteinatlas.org/ENSG00000047410-TPR
+TPR,nuclear membrane,1772,B6,4,https://www.proteinatlas.org/ENSG00000047410-TPR
+TPR,nuclear membrane,1773,H11,2,https://www.proteinatlas.org/ENSG00000047410-TPR
+TPR,nuclear membrane,1773,H11,1,https://www.proteinatlas.org/ENSG00000047410-TPR
+LMNB1,nuclear membrane,1894,G3,4,https://www.proteinatlas.org/ENSG00000113368-LMNB1
+HNRNPC,nucleoplasm,1894,H2,2,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+HNRNPC,nucleoplasm,1894,H2,1,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+HNRNPC,nucleoplasm,1894,G2,4,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+HNRNPC,nucleoplasm,1894,G2,3,https://www.proteinatlas.org/ENSG00000092199-HNRNPC
+LMNB1,nuclear membrane,1894,G3,5,https://www.proteinatlas.org/ENSG00000113368-LMNB1
