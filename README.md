@@ -21,5 +21,6 @@ To be able to follow the course you need to know basic image analysis:
 - The course material was tested using CellProfiler 3.1.9. Download CellProfiler from https://cellprofiler.org/releases/
 
 ## Supplementary Information
+- watch the recorded course: https://www.youtube.com/watch?v=QrzHQIiIDKM
 - This workflow solves the same image analysis question (and more) as my ImageJ/Macro Introductory course https://github.com/ahklemm/ImageJMacro_Introduction
 
